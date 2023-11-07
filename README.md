@@ -11,7 +11,7 @@
 * AWS
 ---
 # PRODUCT
-![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/3f3fe51b-2e34-4c28-92a0-01fd0f128766)
+![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/0a28855e-f734-44a9-bbb0-689037b8482c)
 - [x] 베스트 아이템 조회
 - [x] 상품 장바구니 추가/삭제
 - [x] 상품 음성 검색 
@@ -25,7 +25,7 @@
 - [x] 기본배송지 신규배송지 관리
 ---
 # COMMUNITY
-![KakaoTalk_20231107_174204505_01](https://github.com/aujourdhuii/sweethome/assets/127874815/79c5020f-a73c-468f-8a71-7e57526749e6)
+![KakaoTalk_20231107_174204505_01](https://github.com/aujourdhuii/sweethome/assets/127874815/6dd7ebcc-0823-441c-b1f1-123572219e88)
 - [x] 글쓰기, 댓글 작성, 게시글 검색
 - [x] 좋아요, 스크랩
 - [x] 상품 공유하기
