@@ -1,4 +1,5 @@
-![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/5183dcb1-d114-4bd4-a268-75363b6e8f50)# SWEETHOME
+# SWEETHOME
+![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/5183dcb1-d114-4bd4-a268-75363b6e8f50)
 ---
 # 개발 환경
 * JDK 1.8
@@ -11,7 +12,8 @@
 * AWS
 ---
 # PRODUCT
-![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/0a28855e-f734-44a9-bbb0-689037b8482c)
+![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/a6dadf69-c193-4eee-adf1-0f70826ef0d5)
+
 - [x] 베스트 아이템 조회
 - [x] 상품 장바구니 추가/삭제
 - [x] 상품 음성 검색 
@@ -25,7 +27,8 @@
 - [x] 기본배송지 신규배송지 관리
 ---
 # COMMUNITY
-![KakaoTalk_20231107_174204505_01](https://github.com/aujourdhuii/sweethome/assets/127874815/6dd7ebcc-0823-441c-b1f1-123572219e88)
+![KakaoTalk_20231107_174204505_01](https://github.com/aujourdhuii/sweethome/assets/127874815/844bf37b-c74b-48bf-804b-a5af0d5c58f1)
+
 - [x] 글쓰기, 댓글 작성, 게시글 검색
 - [x] 좋아요, 스크랩
 - [x] 상품 공유하기
