@@ -15,10 +15,11 @@
 ![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/a6dadf69-c193-4eee-adf1-0f70826ef0d5)
 
 - [x] 베스트 아이템 조회
-- [x] 상품 장바구니 추가/삭제
-- [x] 상품 음성 검색 
-- [x] 원하는 조건별 상품 정렬
-- [x] 상품별 리뷰등록 및 상품별 별점분석
+- [x] 상품 키워드, 음성 검색 
+- [x] 조건별 상품 카테고라이징
+- [x] 상품 수량에 따른 변동 가격 확인 / 즉시구매 / 장바구니
+- [x] 전체선택, 개별선택을 통한 장바구니 추가 / 삭제 / 구매
+- [x] 상품별 리뷰 등록 및 상품별 별점 평균
 ---
 # ORDER
 ![KakaoTalk_20231107_174204505_03](https://github.com/aujourdhuii/sweethome/assets/127874815/42d4ccb1-2e7f-4646-8b7e-032854d34ac6)
