@@ -1,4 +1,4 @@
-![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/5183dcb1-d114-4bd4-a268-75363b6e8f50)![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/632da094-2823-42a8-b852-8c9881a966b6)# SWEETHOME
+![KakaoTalk_20231107_174204505](https://github.com/aujourdhuii/sweethome/assets/127874815/5183dcb1-d114-4bd4-a268-75363b6e8f50)# SWEETHOME
 ---
 # 개발 환경
 * JDK 1.8
